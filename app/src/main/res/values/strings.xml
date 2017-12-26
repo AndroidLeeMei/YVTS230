@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YVTS23</string>
+    <string name="add">新增</string>
+    <string name="edit">修改</string>
+    <string name="del">刪除</string>
+    <string name="call">電話</string>
+    <string name="email">訊息</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YVTS23</string>
+    <string name="add">ADD</string>
+    <string name="edit">EDIT</string>
+    <string name="del">DELETE</string>
+    <string name="call">TEL</string>
+    <string name="email">MESS</string>
+
+</resources>
